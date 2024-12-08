@@ -1,5 +1,3 @@
-# Countdown-Timer-Python
-
 
 ---
 
@@ -8,21 +6,22 @@
 ```markdown
 # Countdown Timer
 
-A simple Python countdown timer that counts down from a specified number of seconds.
+A Python script that allows you to set a countdown timer and shows the remaining time in a minute-second format.
 
 ## Overview
 
-This program allows you to set a countdown timer that will show the remaining time in minutes and seconds, and display a message once the time is up.
+This program accepts a number of seconds and counts down until the time is up, showing the remaining time in a `MM:SS` format. It displays a message when the timer reaches zero.
 
 ## How to Use
 
 1. Run the script.
-2. The timer will count down from the specified number of seconds.
+2. Enter the number of seconds for the countdown.
+3. The program will display the time remaining in minute-second format and show a message when the timer ends.
 
 ## Features
 
-- Countdown timer with minute-second format.
-- Display time left until the timer reaches zero.
+- Timer countdown with minute-second display.
+- Simple interface with time remaining shown in real-time.
 
 ## Installation
 
